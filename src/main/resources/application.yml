@@ -1,0 +1,5 @@
+spring:
+   data:
+      mongodb:
+         uri: mongodb+srv://heapsteepofficial:heapsteepofficial@heapsteepmongodbcluster.alzsrfs.mongodb.net/?retryWrites=true&w=majority
+         database: Book_DB
