@@ -1,5 +1,5 @@
 spring:
    data:
       mongodb:
-         uri: mongodb+srv://heapsteepofficial:heapsteepofficial@heapsteepmongodbcluster.alzsrfs.mongodb.net/?retryWrites=true&w=majority
+         uri: mongodb+srv://heapsteep_user_1:heapsteep_user_1@cluster0heapsteep-mongo.w5q0x1f.mongodb.net/?retryWrites=true&w=majority
          database: Book_DB
